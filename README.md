@@ -1,7 +1,7 @@
 👋 Hey!, I’m @d15gu15e / Eben Vranken
 
 I'm a 19 year old programmer interested in anything that has to do
-with programming. 
+with computers. 
 
 I have solid experience in:
 
