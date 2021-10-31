@@ -1,7 +1,9 @@
 👋 Hey!, I’m @d15gu15e / Eben Vranken
 
 I'm a 19 year old programmer interested in anything that has to do
-with programming. I have solid experience in:
+with programming. 
+
+I have solid experience in:
 
 🐍 Python
 🌐 HTML / Vanilla CSS & Bootstrap 4/5 
@@ -10,6 +12,7 @@ with programming. I have solid experience in:
 #️⃣ C#
 
 I've also dabbled in:
+
 ☕ Java
 ⚛️ React
 💻 Linux
