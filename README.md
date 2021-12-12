@@ -21,4 +21,5 @@ d15gu15s@protonmail.com)
 
 ## My favorite Projects!
 [Breezy](https://d15gu15e.github.io/breezy/) — A weather application made in TypeScript, powered by the OpenWorldMapAPI
+
 [Typer](https://d15gu15e.github.io/typer/) — A tool to practice blind typing or increase type speed.
