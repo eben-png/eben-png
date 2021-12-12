@@ -19,14 +19,5 @@ d15gu15s@protonmail.com)
 
 ☕ Java
 
-
-
-## I've also dabbled in:
-⚛️ React
-
-💻 Linux
-
-📶 Networking
-
 ## My favorite Projects!
 [Breezy](https://d15gu15e.github.io/breezy/) — A weather application made in TypeScript, powered by the OpenWorldMapAPI
