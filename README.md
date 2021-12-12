@@ -8,17 +8,25 @@ with computers.
 d15gu15s@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/eben-vranken-66b053224/)
 
-### Languages
+## Languages
 🌐 HTML / Vanilla CSS
+
 📜 Javascript/TypeScript
+
 📊 SQLite / MySql
+
 #️⃣ C#
+
 ☕ Java
 
-### I've also dabbled in:
+
+
+## I've also dabbled in:
 ⚛️ React
+
 💻 Linux
+
 📶 Networking
 
-### My favorite Projects!
-[![Breezy]](https://github.com/samihaTasnim/photoScape) — A weather application made in TypeScript, powered by the OpenWorldMapAPI
+## My favorite Projects!
+[Breezy](https://d15gu15e.github.io/breezy/) — A weather application made in TypeScript, powered by the OpenWorldMapAPI
