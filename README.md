@@ -1,24 +1,24 @@
-👋 Hey!, I’m @d15gu15e / Eben Vranken
+## 👋 Hey!, I’m @d15gu15e / Eben Vranken
 
 I'm a 19 year old programmer interested in anything that has to do
 with computers. 
 
-I have solid experience in:
+### Contact me!
+[![Email](https://img.shields.io/badge/-Gmail-000?logo=gmail)](
+d15gu15s@protonmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/eben-vranken-66b053224/)
 
-🐍 Python
-🌐 HTML / Vanilla CSS & Bootstrap 4/5 
-📜 Javascript
+### Languages
+🌐 HTML / Vanilla CSS
+📜 Javascript/TypeScript
 📊 SQLite / MySql
 #️⃣ C#
-
-I've also dabbled in:
-
 ☕ Java
+
+### I've also dabbled in:
 ⚛️ React
 💻 Linux
 📶 Networking
 
-👀 I’m interested in 
- 
-🌎 Making the world a better place, to make people understand what programming is
- and what it isn't.
+### My favorite Projects!
+[![Breezy]](https://github.com/samihaTasnim/photoScape) — A weather application made in TypeScript, powered by the OpenWorldMapAPI
