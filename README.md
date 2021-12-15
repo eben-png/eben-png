@@ -1,4 +1,4 @@
-## 👋 Hey!, I’m @d15gu15e / Eben Vranken
+## 👋 Hey!, I’m @EbenVranken
 
 I'm a 19 year old programmer interested in anything that has to do
 with computers. 
@@ -20,6 +20,6 @@ d15gu15s@protonmail.com)
 ☕ Java
 
 ## My favorite Projects!
-[Breezy](https://d15gu15e.github.io/breezy/) — A weather application made in TypeScript, powered by the OpenWorldMapAPI
-
 [Typer](https://d15gu15e.github.io/typer/) — A tool to practice blind typing or increase type speed.
+
+[Breezy](https://d15gu15e.github.io/breezy/) — A weather application made in TypeScript, powered by the OpenWorldMapAPI
