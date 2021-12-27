@@ -20,6 +20,6 @@ d15gu15s@protonmail.com)
 ☕ Java
 
 ## My favorite Projects
-[Typer](https://eben-vranken.github.io/typer/) — A tool to practice blind typing or increase type speed.
+[Typerless](https://github.com/eben-vranken/typerless) — A tool to practice blind typing or increase type speed.
 
 [Breezy](https://eben-vranken.github.io/breezy/) — A weather application powered by the OpenWorldMapAPI
