@@ -1,6 +1,6 @@
 ## 👋 Hey!, I’m @EbenVranken
 
-I'm a 19 year old programmer interested in anything that has to do
+I'm a 20 year old interested in anything that has to do
 with computers. 
 
 ### Contact me!
