@@ -10,7 +10,7 @@ d15gu15s@protonmail.com)
 
 ## Main Work
 [Textuva](https://www.textuva.com) — An AI studying tool.
--- Check out its GitHub [here](https://www.github.com/textuva/)
+You can find Textuva as a Github [organization](https://www.github.com/textuva/)
 
 ## Some Side-Projects
 [Typerless](https://github.com/eben-vranken/typerless) — A tool to practice blind typing or increase type speed.
