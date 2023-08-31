@@ -1,9 +1,3 @@
-## 👋 Hey!, I’m @EbenVranken
-
-I'm a 20 year old interested in anything that has to do
-with computers. 
-
-### Contact me!
 [![Email](https://img.shields.io/badge/-Gmail-000?logo=gmail)](
 d15gu15s@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/eben-vranken-66b053224/)
