@@ -8,18 +8,11 @@ with computers.
 d15gu15s@protonmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?logo=linkedin)](https://www.linkedin.com/in/eben-vranken-66b053224/)
 
-## Languages
-🌐 HTML / Vanilla CSS
+## Main Work
+[Textuva](https://www.textuva.com) — An AI studying tool.
+-- Check out its GitHub [here](https://www.github.com/textuva/)
 
-📜 Javascript/TypeScript
-
-📊 SQLite / MySql
-
-#️⃣ C#
-
-☕ Java
-
-## My favorite Projects
+## Some Side-Projects
 [Typerless](https://github.com/eben-vranken/typerless) — A tool to practice blind typing or increase type speed.
 
 [Breezy](https://eben-vranken.github.io/breezy/) — A weather application powered by the OpenWorldMapAPI
