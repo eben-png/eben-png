@@ -10,6 +10,7 @@ d15gu15s@protonmail.com)
 
 ## Main Work
 [Textuva](https://www.textuva.com) — An AI studying tool.
+
 You can find Textuva as a Github [organization](https://www.github.com/textuva/)
 
 ## Some Side-Projects
