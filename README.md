@@ -7,6 +7,8 @@ d15gu15s@protonmail.com)
 
 You can find Textuva as a Github [organization](https://www.github.com/textuva/)
 
+‼️ Still in development
+
 ## Some Side-Projects
 [Typerless](https://github.com/eben-vranken/typerless) — A tool to practice blind typing or increase type speed.
 
