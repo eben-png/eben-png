@@ -10,6 +10,8 @@ You can find Textuva as a Github [organization](https://www.github.com/textuva/)
 ‼️ Still in development
 
 ## Some Side-Projects
+[Kotodama](https://github.com/eben-vranken/kotodama) — An open-source flashcard application.
+
 [Typerless](https://github.com/eben-vranken/typerless) — A tool to practice blind typing or increase type speed.
 
-[Breezy](https://eben-vranken.github.io/breezy/) — A weather application powered by the OpenWorldMapAPI
+[Breezy](https://eben-vranken.github.io/breezy/) — A weather application powered by the OpenWorldMapAPI.
